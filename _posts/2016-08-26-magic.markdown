@@ -1,0 +1,8 @@
+---
+published: true
+title: Magic
+layout: post
+---
+The verses lose their touch&mdash;
+<br/>
+Their magic&mdash;when said too much
