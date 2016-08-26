@@ -1,0 +1,8 @@
+---
+published: true
+title: Blanket
+layout: post
+---
+If I cover myself in a blanket
+<br/>
+Will you see me? Will you even look?
