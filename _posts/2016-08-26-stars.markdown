@@ -1,0 +1,8 @@
+---
+published: true
+title: Stars
+layout: post
+---
+"The stars are out of this world!" they chuckled
+<br/>
+And I almost missed the pain woven carefully in the rough fabric of their voice
