@@ -1,0 +1,8 @@
+---
+published: true
+title: Sunrise
+layout: post
+---
+Watching the sunrise with a sleeping figure
+<br/>
+Is almost lonelier than watching alone
