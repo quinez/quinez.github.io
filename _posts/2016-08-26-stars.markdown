@@ -5,4 +5,4 @@ layout: post
 ---
 "The stars are out of this world!" they chuckled
 <br/>
-<i style="font-size:10px;">And I almost missed the pain woven carefully in the rough fabric of their voice</i>
+<i style="font-size:12px;">And I almost missed the pain woven carefully in the rough fabric of their voice</i>
