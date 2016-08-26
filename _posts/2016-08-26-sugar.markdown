@@ -1,0 +1,8 @@
+---
+published: true
+title: Sugar
+layout: post
+---
+The people that only last a moment
+<br/>
+Dissolve, like sugar on my tongue
