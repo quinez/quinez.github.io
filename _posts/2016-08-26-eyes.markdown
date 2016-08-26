@@ -1,0 +1,8 @@
+---
+published: true
+title: Eyes
+layout: post
+---
+It's more painful to look at you turn away
+<br/>
+Than to not look at all <strike>(or to shut my eyes)</strike>
