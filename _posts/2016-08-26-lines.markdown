@@ -3,6 +3,6 @@ published: true
 title: Lines
 layout: post
 ---
-Words in my eyes
+The words in my eyes
 <br/>
 Are misunderstood like the vague lines of ancient poems
