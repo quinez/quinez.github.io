@@ -1,0 +1,8 @@
+---
+published: true
+title: Cliff
+layout: post
+---
+It's a good thing it goes both ways
+<br/>
+Or you'd be stuck at the edge of the cliff
