@@ -1,0 +1,8 @@
+---
+published: true
+title: Dream
+layout: post
+---
+Roll your tongue over it
+<br/>
+Indulge in it, before it dissipates <span style="font-size:10px;">and you realize: <i>it was a dream</i></span>
