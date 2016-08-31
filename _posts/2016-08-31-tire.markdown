@@ -1,0 +1,8 @@
+---
+published: true
+title: Tire
+layout: post
+---
+Can I avoid everything
+<br/>
+By being tired?
