@@ -1,0 +1,8 @@
+---
+published: true
+title: Salt
+layout: post
+---
+Put a little salt,
+<br/>
+And sear the wound closed
