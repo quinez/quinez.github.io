@@ -1,6 +1,6 @@
 ---
 published: true
-title: Cat II
+title: Cat: Part II
 layout: post
 ---
 It hurts to see you like that, silent,
