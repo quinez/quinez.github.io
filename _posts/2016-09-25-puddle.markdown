@@ -1,0 +1,8 @@
+---
+published: true
+title: Puddle
+layout: post
+---
+We can see the sky,
+<br/>
+Reflected in the puddle at our feet <sub>(and drown ourselves in it)</sub>
