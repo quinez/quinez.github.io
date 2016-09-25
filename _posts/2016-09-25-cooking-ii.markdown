@@ -1,6 +1,6 @@
 ---
 published: true
-title: Cooking II
+title: Cooking: Part II
 layout: post
 ---
 Wow so apparently I got myself signed up for another cooking thing???
