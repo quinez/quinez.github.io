@@ -1,0 +1,8 @@
+---
+published: true
+title: Blog
+layout: post
+---
+This is probably the blog that I've made the most posts on and used for the longest time (sad isn't it?).
+<br/>
+It's pretty cool, so I thought I'd put this here to encourage me to stay on this platform (and not give up crappy blogging)
