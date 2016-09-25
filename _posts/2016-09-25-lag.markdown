@@ -1,0 +1,6 @@
+---
+published: true
+title: Lag
+layout: post
+---
+Urgh my Tinypress/github is lagging. At least I have a post for today already, but still.
